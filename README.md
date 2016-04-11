@@ -1,2 +1,2 @@
 # humor
-Jokes and funny humor
+Jokes and funny humor I have invented.
